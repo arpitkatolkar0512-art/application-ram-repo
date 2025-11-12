@@ -1,2 +1,2 @@
-# application-ram-repo
+# application-code-repo
 this repo holding code repo 
